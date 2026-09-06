@@ -404,7 +404,20 @@ Engineering systems across optimization, artificial intelligence, vulnerability 
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/yashpalkar16/yashpalkar16/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/yashpalkar16/yashpalkar16/refs/heads/output/github-contribution-grid-snake-dark.svg?token=GHSAT0AAAAAAEGHWMDUQ4RGUIAFA6WBIVUY2U5L42A"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/yashpalkar16/yashpalkar16/refs/heads/output/github-contribution-grid-snake.svg?token=GHSAT0AAAAAAEGHWMDUG6AXQSBORHDFRYUU2U5L63Q"
+  />
+  <img
+    alt="GitHub Contribution Snake"
+    src="https://raw.githubusercontent.com/yashpalkar16/yashpalkar16/refs/heads/output/github-contribution-grid-snake.svg?token=GHSAT0AAAAAAEGHWMDUG6AXQSBORHDFRYUU2U5L63Q"
+  />
+</picture>
 
 </div>
 

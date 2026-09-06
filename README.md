@@ -366,15 +366,15 @@ Engineering systems across optimization, artificial intelligence, vulnerability 
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=yashpalkar16&show_icons=true&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=7C3AED&text_color=C9D1D9&rank_icon=github" height="180"/>
+<img src="./profile/github-stats.svg" height="180"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=yashpalkar16&hide_border=true&background=0D1117&ring=8B5CF6&fire=7C3AED&currStreakLabel=8B5CF6&sideLabels=C9D1D9&dates=6E7681" height="180"/>
+<img src="https://streak-stats.demolab.com/?user=yashpalkar16&hide_border=true&background=0D1117&ring=8B5CF6&fire=7C3AED&currStreakLabel=8B5CF6&sideLabels=C9D1D9&dates=6E7681" height="180"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashpalkar16&layout=compact&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=C9D1D9&langs_count=10" height="180"/>
+<img src="./profile/top-languages.svg" height="180"/>
 
 </div>
 

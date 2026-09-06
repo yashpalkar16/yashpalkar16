@@ -407,15 +407,15 @@ Engineering systems across optimization, artificial intelligence, vulnerability 
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/yashpalkar16/yashpalkar16/refs/heads/output/github-contribution-grid-snake-dark.svg?token=GHSAT0AAAAAAEGHWMDUQ4RGUIAFA6WBIVUY2U5L42A"
+    srcset="https://raw.githubusercontent.com/yashpalkar16/yashpalkar16/refs/heads/output/github-contribution-grid-snake-dark.svg?token=GHSAT0AAAAAAEGHWMDV2EAWQNX35HTQY7TK2U5NSPA"
   />
   <source
     media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/yashpalkar16/yashpalkar16/refs/heads/output/github-contribution-grid-snake.svg?token=GHSAT0AAAAAAEGHWMDUG6AXQSBORHDFRYUU2U5L63Q"
+    srcset="https://raw.githubusercontent.com/yashpalkar16/yashpalkar16/refs/heads/output/github-contribution-grid-snake-dark.svg?token=GHSAT0AAAAAAEGHWMDV2EAWQNX35HTQY7TK2U5NSPA"
   />
   <img
     alt="GitHub Contribution Snake"
-    src="https://raw.githubusercontent.com/yashpalkar16/yashpalkar16/refs/heads/output/github-contribution-grid-snake.svg?token=GHSAT0AAAAAAEGHWMDUG6AXQSBORHDFRYUU2U5L63Q"
+    src="https://raw.githubusercontent.com/yashpalkar16/yashpalkar16/refs/heads/output/github-contribution-grid-snake.svg?token=GHSAT0AAAAAAEGHWMDU2XMKOMN24G2YA6362U5NTQA"
   />
 </picture>
 

@@ -368,7 +368,7 @@ Engineering systems across optimization, artificial intelligence, vulnerability 
 
 <img src="./profile/github-stats.svg" height="180"/>
 
-<img src="https://streak-stats.demolab.com/?user=yashpalkar16&hide_border=true&background=0D1117&ring=8B5CF6&fire=7C3AED&currStreakLabel=8B5CF6&sideLabels=C9D1D9&dates=6E7681" height="180"/>
+<img src="https://streak-stats.demolab.com/?user=yashpalkar16&hide_border=true&background=0D1117&ring=8B5CF6&fire=7C3AED&currStreakNum=EDE9FE&sideNums=EDE9FE&currStreakLabel=8B5CF6&sideLabels=C9D1D9&dates=6E7681" height="180"/>
 
 </div>
 
